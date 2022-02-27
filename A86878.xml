@@ -1,0 +1,244 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble representation of the committee, gentry, ministry, and other well affected persons, in the county of Leicester: to His Excellency Thomas Lord Fairfax, and the Generall-Councell of officers of the Army. In reference to the agreement of the people, tendred to the kingdome, as touching religion.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86878</idno>
+            <idno type="STC">Wing H3641</idno>
+            <idno type="STC">Thomason E545_22</idno>
+            <idno type="STC">ESTC R202478</idno>
+            <idno type="EEBO-CITATION">99862738</idno>
+            <idno type="PROQUEST">99862738</idno>
+            <idno type="VID">114914</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86878)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114914)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 84:E545[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble representation of the committee, gentry, ministry, and other well affected persons, in the county of Leicester: to His Excellency Thomas Lord Fairfax, and the Generall-Councell of officers of the Army. In reference to the agreement of the people, tendred to the kingdome, as touching religion.</title>
+                  <author>England and Wales. Army.</author>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Hood in St Dunstans Churh-yard [sic],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXLVIII. [1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March. 1st".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Leicestershire (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114914:1"/>
+            <!-- PDF PAGE 22 -->
+            <pb facs="tcp:114914:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 22 -->
+            <p>The Humble REPRESENTATION OF THE Committee, Gentry, Miniſtry, And other well affected Perſons, in the County of <hi>LEICESTER:</hi>
+            </p>
+            <p>To His EXCELLENCY <hi>THOMAS</hi> Lord <hi>Fairfax,</hi> and the <hi>Generall-Councell</hi> of Officers of the <hi>ARMY,</hi>
+            </p>
+            <p>In reference to the <hi>Agreement of the People,</hi> tendred to the <hi>KINGDOME,</hi> as touching <hi>Religion.</hi>
+            </p>
+            <p>
+               <add>March .1ſt</add> LONDON, Printed for <hi>Henry Hood</hi> in St <hi>Dunſtans</hi> Churh-yard. MDCXLVIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="document">
+            <pb facs="tcp:114914:2"/>
+            <!-- PDF PAGE 23 -->
+            <pb n="3" facs="tcp:114914:2"/>
+            <!-- PDF PAGE 23 -->
+            <head>
+               <figure>
+                  <figDesc>blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>The humble REPRESENTATION of the <hi>Committee, Gentry, Mini<g ref="char:EOLhyphen"/>ſtry,</hi> &amp;c. of the County of <hi>Leiceſt.</hi>
+            </head>
+            <opener>Sheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat the many great and glori<g ref="char:EOLhyphen"/>ous bleſſings, which the Lord of Hoſts hath beſtow<g ref="char:EOLhyphen"/>ed, upon this ſhattered and almoſt ruinated Nation, by the remarkable Valour and fidelity of your <hi>Excellency,</hi> and the <hi>Army</hi> under your Command, aſcending from one high degree of ſervice to another, with many cleare evidences of your Loyalty to the Nation; together with the Candor of your Excellency, and Councell of Warre, as it were inviting all Perſons, in your draught of the Agreement of the People, to give in their apprehenſions, and reaſons of appro<g ref="char:EOLhyphen"/>ving,
+<pb n="4" facs="tcp:114914:3"/>
+               <!-- PDF PAGE 24 -->or diſſenting from any thing contained therein; And knowing that it is in the Nature of the very beſt of Men, to be ſubject to frailty and errour, (which we ought ſeriouſly to bewaile in our ſelves and others) ſometimes by Miſtaken <hi>Zeale</hi> carryed beyond its proper limits, and often by an Exorbitant <hi>Charity</hi> giving more Latitude to tendernes and pitty, then can well ſtand with Divine <hi>Truths;</hi> God in his wiſdome having ſet bounds to both, whoſe lawes challenge in all things exact obedience, (eſpecially in ſo high a point as concernes the ſalvation of ſoules.)</p>
+            <p>Theſe conſiderations have moved us, humbly to preſent our thoughts to your Excellencies peruſall &amp; review, about ſome things of greateſt weight, as concerning the glory of God, the pre<g ref="char:EOLhyphen"/>ſervation of Religion, and the Peace and happi<g ref="char:EOLhyphen"/>neſſe of the Reformed Churches; And we moſt humbly deſire, that the things ſo propoſed by us, may be taken into your grave examination, without prejudice againſt us, as if we were over<g ref="char:EOLhyphen"/>byaſſed by the Example of Others, or any ſiniſter ends of our owne.</p>
+            <p>Wee ſhall take leave to profeſſe our ſelves un<g ref="char:EOLhyphen"/>ſatisfied, concerning ſome Particulars, in the Ninth Article of the Agreement.</p>
+            <p>Firſt, that <hi>Chriſtian Religion,</hi> which we juſtly account the greateſt happineſſe,<note place="margin">Deut. 32.47. Prov. 3.13.19. 1 Sam 4 12.</note> (the very life and glory of a People) is not reckoned as any of the
+<pb n="5" facs="tcp:114914:3"/>
+               <!-- PDF PAGE 24 -->
+               <hi>Fundamentals</hi> of our Common rights and free<g ref="char:EOLhyphen"/>domes; Notwithſtanding our <hi>Poſseſsion</hi> thereof ſo many yeares, and that we have found it the <hi>Pa<g ref="char:EOLhyphen"/>rent</hi> of all our cheifeſt bleſſings and <hi>Priviledges.</hi> And farther we think it ſtrange, that the ſaid Chriſtian Religion is only to be <hi>Recommended,</hi> as the Publique profeſſion <hi>in</hi> the Nation, and not <hi>Eſtabliſhed,</hi> as the Publique profeſſion <hi>of</hi> the Nation. Yea, it is not ſo much as <hi>Actually</hi> recom<g ref="char:EOLhyphen"/>mended, its only <hi>Intended</hi> to be recommended.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, that the care of the preſervation of the ſaid Chriſtian Religion, in its purity, is not at all recommended to the <hi>Chriſtian Mugiſtrate,</hi> (but he to be deveſted of all power in things touching Religion) notwithſtanding the Goſpell promiſe ſo well knowne, <hi>Iſa.</hi> 60.16, 17, 18.<note place="margin">Iſa. 60.16, 17, 18.</note> 
+               <hi>Iſa.</hi> 1.26.<note place="margin">Iſa. 1.26.</note> as alſo thoſe eminent glorious exam<g ref="char:EOLhyphen"/>ples of <hi>Moſes, Samuel, Ioſhua, Aſa, Iehoſaphat, Hezekiah, Ioſiah, Ezra, Nehemiah,</hi> &amp;c. All which were famous in their times, for the exerciſe of their power, for reſtoring Religion to its purity.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, that <hi>inſtructing</hi> of the People in the ſaid Chriſtian Religion, by able and faithfull <hi>Teach<g ref="char:EOLhyphen"/>ers,</hi> is but barely <hi>allowed</hi> and <hi>tolerated.</hi> Notwith<g ref="char:EOLhyphen"/>ſtanding the <hi>neceſsity</hi> thereof for the ſalvation of ſoules; the Religious care of <hi>Iehoſaphat</hi> and others, who ſent ſorth and encouraged <hi>Levites</hi> to inſtruct and teach the People; and <hi>Pauls</hi> weighty charge to <hi>Timothy, I charge thee before God and the Lord
+<pb n="6" facs="tcp:114914:4"/>
+                  <!-- PDF PAGE 25 -->Ieſus Chriſt, Preach the Word, &amp;c.</hi> together with Chriſt his treble charge to <hi>Peter, Iohn.</hi> 21.15.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> Fourthly, that although the Goſpel hath been long planted in this Nation, and the Peo<g ref="char:EOLhyphen"/>ple have <hi>univerſally engaged</hi> to the Profeſſion thereof; It is nevertheleſſe propounded as a <hi>Fundamentall</hi> right of the People, that they ſhould in no wiſe be <hi>Compelled,</hi> to hold faſt the ſaid profeſſion, or attend the Ordinances for in<g ref="char:EOLhyphen"/>ſtruction therein; whereby (as we conceive) a wide doore is opened to damnable Apoſtacy, yea even to brutiſh <hi>Heatheniſme</hi> and <hi>Atheiſme:</hi> for prevention whereof, no proviſion is made, or mentioned in the ſaid Articles, notwithſtanding cleare and pregnant Scriptures, for conſtraining thoſe who had <hi>received</hi> the true Religion, to <hi>con<g ref="char:EOLhyphen"/>tinue</hi> in the Profeſſion and practice therof, 2 <hi>Chr.</hi> 15.13. 2 <hi>Chro.</hi> 34.32. <hi>Ezra</hi> 7.26, 27.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> Fifthly, whereas in darker times, whole<g ref="char:EOLhyphen"/>ſome and Chriſtian lawes have bin made againſt Idolatry, Sabbath-breaking, Blaſphemy, and Prophaneneſſe; and ſome of theſe Lawes revived and enlarged by this preſent Parliament, that (notwithſtanding ſo many Prayers, Teares, and humble endeavours to bring on reformation, and alſo the heavy hand of God upon the Kingdome, in this inteſtine Warre, with other fearefull judgements) yet by this Ninth Article, the Mounds will be broken downe, and the flood<g ref="char:EOLhyphen"/>gates
+<pb n="7" facs="tcp:114914:4"/>
+               <!-- PDF PAGE 25 -->opened, to all manner of impiety and pro<g ref="char:EOLhyphen"/>faneneſſe, by <hi>repealing</hi> and making voide all <hi>Lawes</hi> of reſtraint, to the great diſhonour of God, the heart-breaking of many deare Chriſtians throughout the Kingdome, and opening the mouthes of Gods enemies to blaſpheme, de<g ref="char:EOLhyphen"/>ride and triumph.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> Sixthly, that (as if the <hi>ſinnes</hi> of our <hi>owne</hi> Nation were not yet enough, to draw downe more and heavier Judgements from heaven upon us) incouragement is hereby implicitly given, to <hi>Idolaters, Turks</hi> and <hi>Heathens,</hi> to come in and exerciſe their groſſe Idolatries amongſt us; againſt which practices,<note place="margin">Deut. 7.1, 2, 3, 4, 5, 6, 7. Deut. 12.30, 31, 32. Rev. 2 20.</note> the Lord from Heaven hath declared, as the higheſt abominations; and upon theſe very grounds ſtraightly charged his People of old, <hi>to drive them out from amongſt them, leſt they ſhould learn their waies, and the land be defiled.</hi> Which grounds we conceive to be Moral and Perpetuall;<note place="margin">Lev, 18.25.27, 28.</note> and if the Land <hi>Spued them out</hi> for theſe abominations, O let not us lick up the vomit; And although we may thinke our ſelves out of danger of ſuch infection, yet the fearefull example of <hi>Solomons</hi> Apoſtacy, and Iſraels de<g ref="char:EOLhyphen"/>fection upon Admiſſions of like nature, do de<g ref="char:EOLhyphen"/>terre us from entertaining ſuch perilous temp<g ref="char:EOLhyphen"/>tations, to our ſelves and all poſterity. And if the Lord require us <hi>to come out</hi> from amongſt them,<note place="margin">2 Cor. 6.16 <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>7.</note> how ſhall we invite or <hi>permit</hi> them to <hi>come in</hi> to us.</p>
+            <p>
+               <pb n="8" facs="tcp:114914:5"/>
+               <!-- PDF PAGE 26 -->
+Seventhly, whereas we have eves ſeen, and at the preſent feele, the ſad <hi>effects</hi> of the de<g ref="char:EOLhyphen"/>ſtructive principles of <hi>Popery,</hi> both upon our ſelves and our neighbour Nations, in Murders and Maſſacres of all manner of perſons, by all manner of meanes; Witneſſe two Kings ſucceſ<g ref="char:EOLhyphen"/>ſively murdered upon the ſame account in <hi>France,</hi> their many bloody deſignes upon Queen <hi>Elizabeth,</hi> that horrid attempt of <hi>blowing</hi> up the <hi>Parliament,</hi> theſe late barbarous Murders and Maſſacres in <hi>Ireland;</hi> (all which may ſtand as unanſwerable arguments, for the rooting up of that pernicious profeſſion, which hath been found to grow up and ſpread in this Nation, un<g ref="char:EOLhyphen"/>der the ſharpeſt lawes enacted againſt it): yet in your third particular concerning Religion, wherein you would ſeem to make ſome proviſion againſt it, you have ſo ſlenderly and obſcurely, provided (and upon the matter not at all, if not held forth as the Publique Profeſſion in the Na<g ref="char:EOLhyphen"/>tion) that it fils us with amazement,<note place="margin">Hab. 3.1.6.</note> 
+               <hi>makes our bellies to tremble, and rottenneſſe to enter into our bones.</hi>
+            </p>
+            <p>Eightly, by the third clauſe, all that doe profeſſe faith in God by Jeſus Chriſt, as <hi>Pa<g ref="char:EOLhyphen"/>piſts, Socinians, Familiſts,</hi> &amp;c. will pretend to do, have liberty to profeſſe their faith, and exerciſe their Religion in any place whatſoever, (even in ſuch places as are appointed for Pub<g ref="char:EOLhyphen"/>lique worſhip if they may have but leave)
+<pb n="9" facs="tcp:114914:5"/>
+               <!-- PDF PAGE 26 -->Which liberty being granted, although it ſhould not <hi>diſturbe</hi> the <hi>Civill peace,</hi> yet, may prove infinitely pernicious, and <hi>deſtructive</hi> to many thouſands of ignorant and unſtable <hi>ſoules;</hi> as we already finde by ſad and deplorable experience, <hi>even now,</hi> before this liberty be granted.</p>
+            <p>What ſtrange and woefull iſſues, may we then expect, when not onely boundleſſe <hi>liberty,</hi> but (as we humbly conceive) moſt unwarrantable <hi>Protection,</hi> is to be provided? So that hereby, <hi>Er<g ref="char:EOLhyphen"/>rors</hi> are under as ſafe &amp; powerful a ſhelter, as <hi>truth;</hi> and the moſt corrupting <hi>ſedueers,</hi> as the ſoundeſt and moſt Religious <hi>Chriſtians;</hi> which ſeemes extremely againſt the very current of <hi>Scrip<g ref="char:EOLhyphen"/>tures,</hi> which tell us that <hi>ſeducing will eate as doth a Gangrene, and overthrow the faith of ſome.</hi>
+               <note place="margin">2 Tim. 2.16, 17, 18. Deut. 13.</note> And if <hi>God</hi> commanded ſuch falſe Prophets to be put to death, how then may <hi>we dare</hi> to give <hi>protecti<g ref="char:EOLhyphen"/>on</hi> to them?</p>
+            <p>And beſides all this, caſting our eyes fur<g ref="char:EOLhyphen"/>ther upon the <hi>Agreement,</hi> we perceive that you intend not onely to ſettle it for the <hi>preſent,</hi> but now (at once) to forme it into an <hi>Irrevocable E<g ref="char:EOLhyphen"/>ſtabliſhment,</hi> which (as farre as it relates to <hi>Re<g ref="char:EOLhyphen"/>ligion,</hi> being our buſineſſe in hand) addes hea<g ref="char:EOLhyphen"/>vineſſe unto our ſpirits; againſt which we hum<g ref="char:EOLhyphen"/>bly offer theſe enſuing <hi>reaſons.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, ſome things therein appeare <hi>dangerous,</hi> as hath in part been here preſented; others (at
+<pb n="10" facs="tcp:114914:6"/>
+               <!-- PDF PAGE 27 -->leaſt) <hi>dubious;</hi> and ſo not to be immutably eſta<g ref="char:EOLhyphen"/>bliſhed.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, becauſe many of theſe things were never found <hi>ſafe,</hi> by the <hi>experience</hi> of any Church or State; and to eſtabliſh immutably, in matters of high concernment, ſuch <hi>untried expedients</hi> (we conceive) cannot be ſo ſuitable to piety or prudence.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, becauſe to ſettle ſuch <hi>irrevocable eſtabliſhments,</hi> ſeemes to be inconſiſtent with a common principle of <hi>reaſon,</hi> obliging us to en<g ref="char:EOLhyphen"/>deavour and awaite the <hi>increaſe</hi> of <hi>light</hi> and <hi>know<g ref="char:EOLhyphen"/>ledge,</hi> in things both <hi>Civill</hi> and <hi>Religious:</hi> in which (through mercy) we have found much in<g ref="char:EOLhyphen"/>creaſe of late yeeres; and ſo have no ground to conclude, that we are <hi>now</hi> growne up, to ſuch <hi>perfection</hi> in them, as may not yet receive addi<g ref="char:EOLhyphen"/>tionall and future <hi>improvement.</hi> From all benefit whereof, We, by this Agreement, conceive our ſelves from henceforth for ever excluded.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> Fourthly, by ſuch <hi>Eſtabliſhment,</hi> we con<g ref="char:EOLhyphen"/>ceive, we ſhall (under the pretence of liberty) but <hi>inthrall Poſterity,</hi> and tie them faſt with a <hi>Gilded Chaine.</hi> And therefore we are unſatiſ<g ref="char:EOLhyphen"/>fied, concerning the <hi>immutableneſſe,</hi> of the <hi>Eſta<g ref="char:EOLhyphen"/>bliſhment</hi> propoſed.</p>
+            <p>
+               <pb n="11" facs="tcp:114914:6"/>
+               <!-- PDF PAGE 27 -->
+And laſtly, although we doe, <hi>exprofeſſo,</hi> in <hi>this</hi> addreſſe, decline ſuch things propoſed in the ſaid <hi>Agreement,</hi> as are meerely of <hi>Civil Concern<g ref="char:EOLhyphen"/>ment;</hi> wherein <hi>we</hi> ſhall <hi>reſigne</hi> up our ſelves to the determination of thoſe in whom the great <hi>truſt</hi> and <hi>ſupreme authority of</hi> the Kingdome doth reſide, (as we hope <hi>your ſelves</hi> and others will, which is our earneſt deſire:) yet, foraſmuch as the way propoſed, for ſetling and determi<g ref="char:EOLhyphen"/>ning the <hi>Civil intereſt,</hi> and alſo that of <hi>Religion,</hi> is one and the ſame, <hi>viz.</hi> by offering the ſame forme of <hi>Agreement</hi> to the <hi>People,</hi> to be eſtabli<g ref="char:EOLhyphen"/>ſhed or laid aſide, as it ſhall be received or diſliked by the <hi>Generality</hi> of them; We hum<g ref="char:EOLhyphen"/>bly conceive that gathering <hi>Subſcriptions,</hi> in the way you ſuggeſt, and which (as we underſtand) is already practiſed, may be of <hi>dangerous</hi> con<g ref="char:EOLhyphen"/>ſequence, for <hi>dividing</hi> the Kingdome; eſpe<g ref="char:EOLhyphen"/>cially the <hi>godly</hi> and <hi>well affected</hi> therein, who being already Generally <hi>ingaged,</hi> by the Nati<g ref="char:EOLhyphen"/>onall <hi>Covenant,</hi> to maintaine the <hi>power</hi> and <hi>pri<g ref="char:EOLhyphen"/>viledges</hi> of <hi>Parliament,</hi> in the maintenance of true <hi>Religion,</hi> and the <hi>fundamentall lawes</hi> of the Kingdome, muſt needs, by ſuch intended <hi>ſub<g ref="char:EOLhyphen"/>ſcriptions</hi> (for and againſt your Agreement) be dangerouſly ingaged, in ſuch <hi>oppoſitions</hi> one of another, as may greatly <hi>advantage</hi> the deſignes of the Common <hi>Enemy,</hi> hazard the <hi>ruine</hi> of the <hi>honeſt party,</hi> and <hi>hinder</hi> the ſettlement of the Na<g ref="char:EOLhyphen"/>tion in <hi>Peace</hi> and Safety.</p>
+            <p>
+               <pb n="12" facs="tcp:114914:7"/>
+               <!-- PDF PAGE 28 -->
+Thus having briefely, plainely, and ſincere<g ref="char:EOLhyphen"/>ly, ſummed up our thoughts of the premiſes, we now leave them in your boſomes, with our Prayers and Teares, from Hearts and Eyes lif<g ref="char:EOLhyphen"/>ted up to Heaven, for a <hi>ſpirit</hi> of <hi>wiſdome</hi> and <hi>holineſſe,</hi> to direct you in all your proceedings referring thereunto; Beſeeching you would not repute us, among the number of thoſe, whoſe ſouls can mingle with none <hi>however God<g ref="char:EOLhyphen"/>ly,</hi> but ſuch as in every <hi>point</hi> concurre in Judge<g ref="char:EOLhyphen"/>ment with themſelves. For as (we know) Chriſts owne <hi>Heart,</hi> and <hi>Armes</hi> are open to weake <hi>Saints;</hi> ſo by his grace, are ours, and ever ſhall, to conſcientious <hi>Brethren,</hi> as farre <hi>as the word allowes,</hi> though in matter of Diſci<g ref="char:EOLhyphen"/>pline they may <hi>differ</hi> from us, or in other points alſo, that ſhake not the <hi>foundation</hi> of <hi>faith,</hi> or enervate the power of <hi>Holineſſe.</hi> Nor are we ſuch as have been backe friends to your <hi>Excel<g ref="char:EOLhyphen"/>lency</hi> and the <hi>Army.</hi> No (God knoweth) we are of them, that have loved and <hi>honoured</hi> you, (for what we have ſeen of <hi>God</hi> in and upon you,) and have often <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>efended</hi> you from the ſtrife of tongues: Ye<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſe many prayers and prai<g ref="char:EOLhyphen"/>ſes, are laid up in Heaven for you. Pardon us therefore (we beſeech you) Noble Sirs, if we have been ſomewhat bold, in this our hum<g ref="char:EOLhyphen"/>ble addreſſe unto you: for our buſineſſe con<g ref="char:EOLhyphen"/>cernes our owne <hi>immortall ſoules,</hi> and our <hi>Poſte<g ref="char:EOLhyphen"/>rities,</hi> yea the very foundations of precious <hi>Truth,</hi> the leaſt whereof laid in the balance,
+<pb n="13" facs="tcp:114914:7"/>
+               <!-- PDF PAGE 28 -->is more <hi>weighty,</hi> then the lives of many. It is <hi>this</hi> we now plead for, and (God will beare us record) it is truly <hi>this,</hi> and not any private <hi>Intereſt</hi> of our owne. You are Gentlemen that are tender to <hi>conſciences,</hi> we beg it that you will <hi>tender</hi> ours, and many thouſands more, of the <hi>Godly</hi> in the <hi>Nation,</hi> who, (we are confident) might a true eſtimate be had, are clearely of out mindes herein.</p>
+            <p>Other things might have been mentioned, referring to Religion, and particularly, that no mention is made of the function of the <hi>Miniſte<g ref="char:EOLhyphen"/>ry;</hi> which Chriſt hath undoubtedly <hi>eſtabliſhed</hi> in the Church, and greatly <hi>proſpered</hi> in his worke; which hath been ever mainely oppoſed by <hi>Sathan,</hi> and is by <hi>many</hi> in theſe times. But that Ordinance being ſo clearely founded by Chriſt in the Holy <hi>Goſpell;</hi> and hoping that your intentions are more full for that and o<g ref="char:EOLhyphen"/>ther things, then your words in that <hi>Agree<g ref="char:EOLhyphen"/>ment</hi> expreſſe, we forbeare to inſiſt further thereon.</p>
+            <div type="part">
+               <pb n="14" facs="tcp:114914:8"/>
+               <!-- PDF PAGE 29 -->
+               <head>In ſhort, theſe particulars are moſt conſiderable.</head>
+               <p n="1">1 <hi>That Chriſtian Religion is not aſserted as a fundamentall of our ſafety.</hi> See Agree<g ref="char:EOLhyphen"/>ment, Artic. 9. part. 1. With the form of ſubſcription in the cloſe.</p>
+               <p n="2">2 <hi>That protection of Errors and Hereſies is declared as a fundamentall.</hi> Artic. 9. part. 2. &amp; 3. with the form of ſubſcription.</p>
+               <p n="3">3 <hi>That all the declared fundamentalls in this Agreement are irrevocably to be eſtabli<g ref="char:EOLhyphen"/>ſhed.</hi> Artic. 8. limitation. 6.</p>
+               <p n="4">4 <hi>That the fundamentalls, and onely they, ſhall be maintained to the uttermoſt, as God ſhall enable.</hi> See the form of ſub<g ref="char:EOLhyphen"/>ſcription.</p>
+               <p>So that by this <hi>Agreement</hi> tendred to the People, (we feare) <hi>naturall Liberty</hi> is endeavoured to be ſet up above divine preſcripts, and the ever<g ref="char:EOLhyphen"/>binding <hi>Lawes</hi> of <hi>God.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="postscript">
+            <pb n="15" facs="tcp:114914:8"/>
+            <!-- PDF PAGE 29 -->
+            <p>THis <hi>Humble Repreſentation</hi> was preſented to the <hi>Lord Generall</hi> his <hi>Excellency,</hi> upon Thurſday the 22 of <hi>Febr.</hi> 1648 by divers Gentlemen of the Committee, and ſome Miniſters, in the name of many others well affect<g ref="char:EOLhyphen"/>ed of the <hi>County</hi> of <hi>Leiceſter:</hi> and was <hi>received</hi> with Noble <hi>Candor;</hi> His <hi>Excellency</hi> promiſing to take it into con<g ref="char:EOLhyphen"/>ſideration, to communicate it to his Generall <hi>Councell</hi> of Officers, and to endeavour the <hi>ſatisfaction</hi> of theſe and all other <hi>well-affected</hi> in the Nation.</p>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Imprimatur,</p>
+            <closer>
+               <signed>Iob: Downham.</signed>
+               <dateline>
+                  <date>Febr. <hi>23. 1648.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
